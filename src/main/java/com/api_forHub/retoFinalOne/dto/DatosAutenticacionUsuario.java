@@ -1,4 +1,4 @@
 package com.api_forHub.retoFinalOne.dto;
 
-public record DTOAutenticacionUsuario(String email, String password) {
+public record DatosAutenticacionUsuario(String email, String clave) {
 }
